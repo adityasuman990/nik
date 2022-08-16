@@ -1,1 +1,1 @@
-/.bootatrap.html
+/.bootstrap.html
